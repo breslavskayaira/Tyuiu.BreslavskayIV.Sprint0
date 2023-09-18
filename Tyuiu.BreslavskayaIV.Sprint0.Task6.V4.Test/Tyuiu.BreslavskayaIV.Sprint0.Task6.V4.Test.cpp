@@ -22,16 +22,3 @@ namespace TyuiuBreslavskayaIVSprint0Task6V4Test
 	};
 }
 
-using namespace Microsoft::VisualStudio::CppUnitTestFramework;
-
-namespace TyuiuBreslavskayaIVSprint0Task6V4Test
-{
-	TEST_CLASS(TyuiuBreslavskayaIVSprint0Task6V4Test)
-	{
-	public:
-		
-		TEST_METHOD(TestMethod1)
-		{
-		}
-	};
-}
