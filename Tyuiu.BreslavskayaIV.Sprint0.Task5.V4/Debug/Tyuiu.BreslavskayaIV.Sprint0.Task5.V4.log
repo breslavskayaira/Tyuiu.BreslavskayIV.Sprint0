@@ -1,0 +1,15 @@
+﻿  Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(11,15): error C2065: 'LC_ALL': undeclared identifier
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(11,5): error C3861: 'setlocale': identifier not found
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(16,10): error C2039: 'cout': is not a member of 'std'
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\predefined C++ types (compiler internal)(340): message : see declaration of 'std'
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(16,15): error C2065: 'cout': undeclared identifier
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(17,5): error C2065: 'cin': undeclared identifier
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(18,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(19,5): error C2065: 'cin': undeclared identifier
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(20,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(21,5): error C2065: 'cin': undeclared identifier
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(22,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(23,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(24,5): error C2065: 'cout': undeclared identifier
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.cpp(24,13): error C2065: 'endl': undeclared identifier

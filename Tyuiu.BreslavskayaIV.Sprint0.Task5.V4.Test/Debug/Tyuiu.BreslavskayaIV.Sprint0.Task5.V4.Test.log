@@ -1,0 +1,5 @@
+﻿  Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.Test.cpp
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.Test\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.Test.cpp(20,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.Test\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.Test.cpp(20): error C4700: uninitialized local variable 'c' used
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.Test\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.Test.cpp(20): error C4700: uninitialized local variable 'b' used
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.Test\Tyuiu.BreslavskayaIV.Sprint0.Task5.V4.Test.cpp(20): error C4700: uninitialized local variable 'a' used
