@@ -1,0 +1,3 @@
+﻿  Tyuiu.BreslavskayaIV.Sprint0.Task6.V4.Test.cpp
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task6.V4.Test\Tyuiu.BreslavskayaIV.Sprint0.Task6.V4.Test.cpp(29,2): error C2011: 'TyuiuBreslavskayaIVSprint0Task6V4Test::TyuiuBreslavskayaIVSprint0Task6V4Test': 'class' type redefinition
+C:\Users\Ирина\source\repos\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0\Tyuiu.BreslavskayaIV.Sprint0.Task6.V4.Test\Tyuiu.BreslavskayaIV.Sprint0.Task6.V4.Test.cpp(9): message : see declaration of 'TyuiuBreslavskayaIVSprint0Task6V4Test::TyuiuBreslavskayaIVSprint0Task6V4Test'
